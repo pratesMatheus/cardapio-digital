@@ -1,20 +1,15 @@
 # cardapio-digital
 
-Projeto de cardápio digital - Maratona Explorer 3.0
+Projeto de cardápio digital
 
-## Aprendizados:
-aula 1
+## Sobre o projeto:
+Foi algo realmente bem simples e introdutório, para quem está começando, é algo realmente muito para já colocar no repositório.
+Este projeto consiste em apresentar ao usuário final um cardápio digital que é ativado com acesso do mesmo a um QR code disponibilizado, que levará ao site desenvolvido com essa finalidade.
 
-<img width="958" alt="aula01Explorer03" src="https://user-images.githubusercontent.com/99659977/183709594-8a518a3d-935f-40c5-9020-48449c309b68.PNG">
+## estrutura de pasta e arquivos:
+- Arquivos: index.html e README.md;
+- Pastas: assets/
+  - Subspastas: css/styles.css e qrcode/frame.png
 
-
-- Foi bem introdutório aos conceitos de front-end e back-end; 
-- client-side e server-side;
-- além disso, iniciou o projeto com HTML;
-
-aula 2
-
-<img width="369" alt="aula02Explorer03" src="https://user-images.githubusercontent.com/99659977/183709712-566b89c4-e734-4d06-a786-e0dec51f787e.PNG">
-
-
-- Deu continuidade com o projeto apresentando e aplicando o CSS;
+### Faça o teste no seu smartphone :)
+Até logo, devs!
